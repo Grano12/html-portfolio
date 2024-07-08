@@ -1,8 +1,7 @@
 html {background-color: 
   #E7F0DC;
      }
-* {
-  text-align: center;
-  color: blue;
-}
-
+p, h1, h2, h3 {text-align: center;}
+img {display: block;
+margin-left: auto;
+margin-right: auto;}
